@@ -1,0 +1,22 @@
+{
+  "name": "kc_caolinbo",
+  "version": "1.0.0",
+  "description": "一个简单的3D图片环效果",
+  "main": "3D_Dome.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caolinbo/3D-Picture-ring.git"
+  },
+  "keywords": [
+    "3d"
+  ],
+  "author": "kc_caolinbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caolinbo/3D-Picture-ring/issues"
+  },
+  "homepage": "https://github.com/caolinbo/3D-Picture-ring#readme"
+}
